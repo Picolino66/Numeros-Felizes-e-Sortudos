@@ -1,5 +1,5 @@
 # Numeros-Felizes-e-Sortudos
 Questão 1 - Números Felizes e Sortudos
 
-1 - Rode npm install.
-2 - Rode npm start.
+<p>1 - Rode npm install.</p>
+<p>2 - Rode npm start.</p>
